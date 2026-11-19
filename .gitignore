@@ -1,0 +1,15 @@
+# build output
+dist/
+*.zip
+
+# test audio and generated transcripts
+*.m4a
+*.mp3
+*.wav
+*_transcription.txt
+*_dialogue.txt
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
