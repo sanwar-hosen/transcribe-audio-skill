@@ -54,10 +54,10 @@ Copy the `skills\transcribe-audio` folder so that this file exists:
 
 ### Option D - one-line install from GitHub
 
-Replace `YOUR-USERNAME` with the account that hosts this repo:
+One command, no download needed first:
 
 ```powershell
-& ([scriptblock]::Create((irm https://raw.githubusercontent.com/YOUR-USERNAME/transcribe-audio-skill/main/install.ps1))) -Repo "YOUR-USERNAME/transcribe-audio-skill"
+& ([scriptblock]::Create((irm https://raw.githubusercontent.com/sanwar-hosen/transcribe-audio-skill/main/install.ps1))) -Repo "sanwar-hosen/transcribe-audio-skill"
 ```
 
 ### Installer options

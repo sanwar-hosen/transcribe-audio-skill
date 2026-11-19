@@ -15,7 +15,7 @@ param(
     [string]$TargetDir,
     [switch]$Uninstall,
     [switch]$SkipTools,
-    [string]$Repo = 'YOURNAME/transcribe-audio-skill',
+    [string]$Repo = 'sanwar-hosen/transcribe-audio-skill',
     [string]$Branch = 'main'
 )
 $ErrorActionPreference = 'Stop'
